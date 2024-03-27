@@ -15,5 +15,5 @@ My undergraduate history honors thesis!
 
 #### Other Publications and Contributions
 
-+ [City/Game: Basketball in New York](https://www.rizzoliusa.com/book/9780847867622/)} <br>
++ [City/Game: Basketball in New York](https://www.rizzoliusa.com/book/9780847867622/) <br>
 I contributed research and writing to this companion book for the acclaimed exhibition at the Museum of the City of New York!
