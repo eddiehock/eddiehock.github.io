@@ -10,10 +10,10 @@ permalink: /publications/
 
 #### Unpublished Papers
 
-+ [Shadows and Delusions: the Indian Burial Ground Superstition](https://www.sas.rochester.edu/his/news-events/2021/2021-06-18_news.html)
++ [Shadows and Delusions: the Indian Burial Ground Superstition](https://www.sas.rochester.edu/his/news-events/2021/2021-06-18_news.html) <br>
 My undergraduate history honors thesis!
 
 #### Other Publications and Contributions
 
-+ [City/Game: Basketball in New York](https://www.rizzoliusa.com/book/9780847867622/)
++ [City/Game: Basketball in New York](https://www.rizzoliusa.com/book/9780847867622/) <br>
 I contributed research and writing to this companion book for the acclaimed exhibition at the Museum of the City of New York!
