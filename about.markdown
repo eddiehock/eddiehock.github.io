@@ -4,13 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-Tyler H. McCormick<br>
-tylermc@uw.edu
+Eddie Hock<br>
+ehock@uw.edu
 
 University of Washington<br>
-Center for Statistics and the Social Sciences<br>
-Box 354320<br>
-Padelford Hall, C 14<br>
+Department of Sociology<br>
+Savery Hall 216D<br>
 University of Washington<br>
-Seattle, WA 98195-4320
+Seattle, WA
 
