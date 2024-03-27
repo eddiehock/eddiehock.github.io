@@ -23,8 +23,7 @@ email: ehock@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-phone-number: (917) 750-5816
-office: Savery Hall, 216D
+telephone: (917) 750-5816
 
 # Build settings
 theme: minima
