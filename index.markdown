@@ -10,10 +10,10 @@ I'm a first-year PhD student in the sociology department at the University of Wa
 <br>
 
 ### Affiliations
-+ PhD student, [University of Washington](http://www.uw.edu){target="_blank"}
-  + [Sociology](https://soc.washington.edu/){target="_blank"}
-+ BA (2021), [University of Rochester](https://www.rochester.edu/){target="_blank"}
-  + [History](https://www.sas.rochester.edu/his/){target="_blank"}
-  + [ATHS](https://www.rochester.edu/college/aths/){target="_blank"}
-  + [Italian Studies](https://www.sas.rochester.edu/mlc/undergraduate/italian.html){target="_blank"}
++ PhD student, [University of Washington](http://www.uw.edu)
+  + [Sociology](https://soc.washington.edu/)
++ BA (2021), [University of Rochester](https://www.rochester.edu/)
+  + [History](https://www.sas.rochester.edu/his/)
+  + [ATHS](https://www.rochester.edu/college/aths/)
+  + [Italian Studies](https://www.sas.rochester.edu/mlc/undergraduate/italian.html)
   
