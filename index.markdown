@@ -4,7 +4,7 @@
 layout: home
 ---
 <figure>
-  <img src="assets/picwithbutton.jpg" style="padding: 10px; float: left; width:300px;height:300px;"/>
+  <img src="assets/picwithbutton.jpg" style="padding: 10px; float: left; width:290px;height:290px;"/>
  </figure>
 I'm a first-year PhD student in the sociology department at the University of Washington! My academic background prior to this program has largely been in history, politics, film, and literature, with particular interest in American and Italian material culture. For my graduate research, I'm centrally concerned with social causation, process and variance theory, and the underlying texture of life and event courses. I hope to use data from unconventional sociological sources, such as sports statistics and personal correspondence, to conduct counterfactual analysis at the individual level, explore issues of path dependence, and inform stochastic process models of social courses.
 <br>
