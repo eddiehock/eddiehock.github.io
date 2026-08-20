@@ -6,7 +6,7 @@ layout: home
 <figure>
   <img src="assets/picwithbutton.jpg" style="padding: 10px; float: left; width:240;height:240px;"/>
  </figure>
-I'm a rising fourth-year PhD student (and soon-to-be PhD candidate) in the Department of Sociology at the University of Washington! My undergrad academic background is in history, politics, film, and literature, with particular interest in American and Italian material culture. After working as associate producer on <a href="https://www.thelastlectures.com/">The Last Lectures</a> with Dr. Harry Edwards, I was inspired to pursue a PhD in sociology. My work in grad school has spanned quantitative research with statistical, demographic, and sports analytics methods, archival and content analysis about the fields of sociology, political science, and economics and the institution of credit, theory-methods integration, and theory7 (as Abend puts it). 
+I'm a fourth-year grad student and PhD candidate in the Department of Sociology at the University of Washington! My undergrad academic background is in history, politics, film, and literature, with particular interest in American and Italian material culture. After working as associate producer on <a href="https://www.thelastlectures.com/">The Last Lectures</a> with Dr. Harry Edwards, I was inspired to pursue a PhD in sociology. My work in grad school has spanned quantitative research with statistical, demographic, and sports analytics methods, archival and content analysis about the fields of sociology, political science, and economics and the institution of credit, theory-methods integration, and theory7 (as Abend puts it). 
 <br>
 <br>
 The blurb version of academic Eddie is "a general sociologist interested in reinterpeting unresolved theoretical problems using unconventional and imaginative data and methods." I founded the department's Epistemology Working Group, I'm part of the UW Science, Technology, and Society Studies Certificate Program, and I am a recipient of the Hanauer Fellowship Award for Excellence in Western Civilization for 2026-2027.
@@ -16,7 +16,7 @@ I am deeply invested in teaching and pedagogy and see education as a personal vo
 <br>
 
 ### Affiliations
-+ PhD student, [University of Washington](http://www.uw.edu)
++ PhD candidate, [University of Washington](http://www.uw.edu)
   + [Sociology](https://soc.washington.edu/)
   + [STSS Community](https://depts.washington.edu/stsst/category/stss-community/)
   + [Global Sport Lab](https://jsis.washington.edu/research/global-sport-lab/)
