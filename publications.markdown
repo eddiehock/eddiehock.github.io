@@ -6,7 +6,7 @@ permalink: /publications/
 
 #### Published Papers
 
-+ [Leverage over Life Outcomes: Exploring Agency among College Quarterbacks](assets/TSI_LoLO_Revision.pdf) <br>
++ [Leverage over Life Outcomes: Exploring Agency among College Quarterbacks](assets/TSILeverageManuscriptFinal.pdf) <br>
 My master's thesis and the predecessor to my dissertation, currently forthcoming at _Theory and Social Inquiry_.
 
 #### Unpublished Papers
