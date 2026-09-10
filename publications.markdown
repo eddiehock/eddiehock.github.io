@@ -11,6 +11,9 @@ My master's thesis and the predecessor to my dissertation, currently forthcoming
 
 #### Unpublished Papers
 
++ [Casting Capital: How Credit Scores Re-Face Exchange](assets/CastingCapitalASADraft.pdf) <br>
+An in-progress paper about the transformation of what is happening on the "other side of the table" in the credit-seeking encounter, presented at the ASA SKAT pre-conference and due for presentation at SSHA in November. After I complete my analysis and get more feedback, I will begin submitting this one for publication.
+
 + [When You Come to a Fork in the Road, Take It: the Rashomon Effect for Social Scientists](https://osf.io/preprints/socarxiv/8zybt_v2) <br>
 A theory-methods integration paper I have loved working on with my co-first author Adam Visokay, currently revising for resubmission to _Sociological Methodology_.
 
