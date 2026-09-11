@@ -4,7 +4,7 @@
 layout: home
 ---
 <figure>
-  <img src="assets/picwithbutton.jpg" style="padding: 10px; float: left; width:240;height:240px;"/>
+  <img src="assets/picwithbutton.jpg" style="padding: 10px; float: left; width:250;height:250px;"/>
  </figure>
 I'm a fourth-year grad student and PhD candidate in the Department of Sociology at the University of Washington! My undergrad academic background is in history, politics, film, and literature, with particular interest in American and Italian material culture. After working as associate producer on <a href="https://www.thelastlectures.com/">The Last Lectures</a> with Dr. Harry Edwards, I was inspired to pursue a PhD in sociology. My work in grad school has spanned quantitative research with statistical, demographic, and sports analytics methods, archival and content analysis about the fields of sociology, political science, and economics and the institution of credit, theory-methods integration, and theory7 (as Abend puts it). 
 <br>
