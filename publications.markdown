@@ -12,10 +12,13 @@ My master's thesis and the predecessor to my dissertation, currently forthcoming
 #### Unpublished Papers
 
 + [Casting Capital: How Credit Scores Re-Face Exchange](assets/CastingCapitalASADraft.pdf) <br>
-An in-progress paper about the transformation of what is happening on the "other side of the table" in the credit-seeking encounter, presented at the ASA SKAT pre-conference and due for presentation at SSHA in November. After I complete my analysis and get more feedback, I will submit this one for publication.
+An in-progress paper about the transformation of what is happening on the "other side of the table" in the credit-seeking encounter, presented at the ASA SKAT pre-conference and due for presentation at SSHA in November. After I complete my analysis and get more feedback, I will submit this one to the _American Journal of Sociology_.
 
 + [When You Come to a Fork in the Road, Take It: the Rashomon Effect for Social Scientists](https://osf.io/preprints/socarxiv/8zybt_v2) <br>
 A theory-methods integration paper I have loved working on with my co-first author Adam Visokay, currently revising for resubmission to _Sociological Methodology_.
+
++ [_De Facto_ Statehood and the Definitional Tyranny of External Sovereignty](assets/DFSWorkingPaper.pdf) <br>
+A critical take on a problematic semantic feature in the political science literature, currently being updated for submission to _Nationalities Papers_.
 
 + [Shadows and Delusions: the Indian Burial Ground Superstition](https://www.sas.rochester.edu/his/news-events/2021/2021-06-18_news.html) <br>
 My undergraduate history honors thesis!
