@@ -14,7 +14,7 @@ The blurb version of academic Eddie is "a general sociologist interested in rein
 <br>
 <br>
 
-I am deeply invested in teaching and pedagogy and see education as a personal vocation. I enjoy teaching substantive classes in sociology, especially the sociology of sport, sociological theory, and political and economic sociology. I also love to teach methods classes and have TAed them at many levels, from introductory stats to data visualization to graduate-level text as data. I'm also very involved in department service and have served as Grad Student Association rep to the department chair, new cohort mentor, and UAW 4121 union steward for the department. This year, I am continuing this service as the president of the department's Grad Student Association. This is also my first year on the academic job market.
+I am deeply invested in teaching and pedagogy and see education as a personal vocation. I enjoy teaching substantive classes in sociology, especially the sociology of sport, sociological theory, and political and economic sociology. I also love to teach methods classes and have TAed them at many levels, from introductory stats to data visualization to graduate-level text as data. I'm also very involved in department service and have served as Grad Student Association rep to the department chair, new cohort mentor, and UAW 4121 union steward for the department. This year, I am continuing this service as the president of the department's Grad Student Association and a head steward for the union. This is also my first year on the academic job market.
 <br>
 <br>
 
